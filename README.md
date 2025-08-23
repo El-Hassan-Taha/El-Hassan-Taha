@@ -10,7 +10,11 @@
 - 💼 **Full Stack .NET Intern** @ DEPI (2025 – 2026)  
 - 🏆 **ECPC Team Member (2024 – 2025)**  
 - 👨‍🏫 Instructor – **Problem Solving & Competitive Programming** (2025 – 2026)  
-- 🌱 Always learning new tools, frameworks, and sharpening my **Problem Solving** skills  
+- 🌱 Always learning new tools, frameworks, and sharpening my **Problem Solving** skills
+- 
+- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Engineer;Problem+Solver+%26+Competitor;Always+Learning+%26+Building;Clean+Code+%7C+Scalable+Apps+%7C+Teamwork" />
+  </p>
 
 ---
 
@@ -58,12 +62,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=El-Hassan-Taha&theme=radical&hide_border=true" alt="GitHub Streak" height="160"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Engineer;Problem+Solver+%26+Competitor;Always+Learning+%26+Building;Clean+Code+%7C+Scalable+Apps+%7C+Teamwork" />
 </p>
 
 ---
