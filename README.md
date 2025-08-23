@@ -41,7 +41,6 @@
 - 🔗 Profiles:  
   - [LeetCode](https://leetcode.com/)  
   - [Codeforces](https://codeforces.com/profile/)  
-  - [HackerRank](https://www.hackerrank.com/)  
 
 ---
 
