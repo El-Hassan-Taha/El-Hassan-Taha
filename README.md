@@ -40,9 +40,9 @@
 
 ## 📊 GitHub Stats  
 
-![El Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassan3005&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan3005&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassan3005&theme=radical)  
+![El Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=El-Hassan-Taha&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Hassan-Taha&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=El-Hassan-Taha&theme=radical)  
 
 ---
 
