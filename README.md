@@ -24,10 +24,10 @@
 
 <p align="center">
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,sqlite" />
   <br/>
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,blazor,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap" />
   <br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
