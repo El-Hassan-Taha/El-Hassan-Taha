@@ -23,7 +23,8 @@
 ## 🛠 Toolbox  
 <p align="center">
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,mssql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql" />
+  <img src="./assets/mssql.svg" alt="SQL Server" width="40" style="vertical-align:middle; margin-left:5px;" />
   <br/>
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap" />
