@@ -24,8 +24,7 @@
 
 <p align="center">
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="48"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,mسsql" />
   <br/>
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap" />
