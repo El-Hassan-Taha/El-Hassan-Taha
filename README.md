@@ -21,7 +21,6 @@
 ---
 
 ## 🛠 Toolbox  
-![Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,mssql)
 <p align="center">
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,mssql" />
