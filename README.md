@@ -24,7 +24,7 @@
 
 <p align="center">
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,sqllite" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,mysql,sqlite" />
   <br/>
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,js,angular,bootstrap" />
