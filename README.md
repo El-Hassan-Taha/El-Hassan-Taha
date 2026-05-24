@@ -1,6 +1,6 @@
 <!-- Profile README for El Hassan Taha -->
 
-<h1 align="center">👋 Hi, I'm El Hassan Taha</h1>
+<h1 align="center">👋 Hi, I'm Alhassan Taha</h1>
 <h3 align="center">💻 Software Engineer | Full Stack .NET Engineer | Problem Solver</h3>
 
 ---
