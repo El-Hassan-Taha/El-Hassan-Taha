@@ -35,16 +35,6 @@
 
 ---
 
-## ⚡ Featured Project  
-
-### 🛒 E-Commerce Web Platform (MVP)  
-- ✅ Built with **ASP.NET Core, Blazor, EF, SQL Server**  
-- 🔑 Features: Authentication, Role-based Authorization, Product Management, Orders & Payments  
-- 📈 Improved checkout flow → reduced errors by **30%**  
-- ⚡ Boosted responsiveness by **40%**
-
----
-
 ## 📫 Connect with Me  
 
 <p align="center">
