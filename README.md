@@ -35,15 +35,6 @@
 
 ---
 
-## 🧩 Problem Solving  
-- ECPC Contestant → Algorithms & Data Structures  
-- Instructor → Competitive Programming (Codeforces & LeetCode)  
-- 🔗 Profiles:  
-  - [LeetCode](https://leetcode.com/)  
-  - [Codeforces](https://codeforces.com/profile/)  
-
----
-
 ## ⚡ Featured Project  
 
 ### 🛒 E-Commerce Web Platform (MVP)  
@@ -51,15 +42,6 @@
 - 🔑 Features: Authentication, Role-based Authorization, Product Management, Orders & Payments  
 - 📈 Improved checkout flow → reduced errors by **30%**  
 - ⚡ Boosted responsiveness by **40%**
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=El-Hassan-Taha&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=El-Hassan-Taha&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
 
 ---
 
